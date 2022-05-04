@@ -1,3 +1,4 @@
+D:\ProgramCode\Blackjack\build\x64\Blackjack.vcxproj.CopyComplete
 D:\ProgramCode\Blackjack\build\sfml-graphics-2.dll
 D:\ProgramCode\Blackjack\build\sfml-window-2.dll
 D:\ProgramCode\Blackjack\build\sfml-system-2.dll
@@ -7,4 +8,3 @@ D:\ProgramCode\Blackjack\build\bz2.dll
 D:\ProgramCode\Blackjack\build\libpng16.dll
 D:\ProgramCode\Blackjack\build\brotlidec.dll
 D:\ProgramCode\Blackjack\build\brotlicommon.dll
-D:\ProgramCode\Blackjack\x64\Release\Blackjack.vcxproj.CopyComplete
